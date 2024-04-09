@@ -1,0 +1,12 @@
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Services.deps.json
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Services.dll
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Services\bin\Debug\net8.0\LibraryManagement.Services.pdb
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.csproj.AssemblyReference.cache
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.AssemblyInfoInputs.cache
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.AssemblyInfo.cs
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.csproj.CoreCompileInputs.cache
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.dll
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Services\obj\Debug\net8.0\refint\LibraryManagement.Services.dll
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Services\obj\Debug\net8.0\LibraryManagement.Services.pdb
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Services\obj\Debug\net8.0\ref\LibraryManagement.Services.dll

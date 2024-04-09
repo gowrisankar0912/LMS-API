@@ -1,0 +1,15 @@
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Data\bin\Debug\net8.0\LibraryManagement.Data.deps.json
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Data\bin\Debug\net8.0\LibraryManagement.Data.dll
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Data\bin\Debug\net8.0\LibraryManagement.Data.pdb
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Data\bin\Debug\net8.0\LibraryManagement.Domain.dll
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Data\bin\Debug\net8.0\LibraryManagement.Domain.pdb
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Data\obj\Debug\net8.0\LibraryManagement.Data.csproj.AssemblyReference.cache
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Data\obj\Debug\net8.0\LibraryManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Data\obj\Debug\net8.0\LibraryManagement.Data.AssemblyInfoInputs.cache
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Data\obj\Debug\net8.0\LibraryManagement.Data.AssemblyInfo.cs
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Data\obj\Debug\net8.0\LibraryManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Data\obj\Debug\net8.0\LibraryM.D1005E98.Up2Date
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Data\obj\Debug\net8.0\LibraryManagement.Data.dll
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Data\obj\Debug\net8.0\refint\LibraryManagement.Data.dll
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Data\obj\Debug\net8.0\LibraryManagement.Data.pdb
+C:\Users\Gowri Sankar Jidugu\source\repos\LibraryManagement\LibraryManagement.Data\obj\Debug\net8.0\ref\LibraryManagement.Data.dll

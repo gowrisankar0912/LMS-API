@@ -1,0 +1,221 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Services\\LibraryManagement.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Data\\LibraryManagement.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Data\\LibraryManagement.Data.csproj",
+        "projectName": "LibraryManagement.Data",
+        "projectPath": "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Data\\LibraryManagement.Data.csproj",
+        "packagesPath": "C:\\Users\\Gowri Sankar Jidugu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gowri Sankar Jidugu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj",
+        "projectName": "LibraryManagement.Domain",
+        "projectPath": "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Gowri Sankar Jidugu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gowri Sankar Jidugu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Services\\LibraryManagement.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Services\\LibraryManagement.Services.csproj",
+        "projectName": "LibraryManagement.Services",
+        "projectPath": "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Services\\LibraryManagement.Services.csproj",
+        "packagesPath": "C:\\Users\\Gowri Sankar Jidugu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gowri Sankar Jidugu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Data\\LibraryManagement.Data.csproj": {
+                "projectPath": "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Data\\LibraryManagement.Data.csproj"
+              },
+              "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gowri Sankar Jidugu\\source\\repos\\LibraryManagement\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
